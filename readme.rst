@@ -1,3 +1,3 @@
-Mojadata Tiler
+gcbminputloader
 ---
-Converts vector and raster layers to the Moja tile/block/cell format.
+
